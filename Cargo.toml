@@ -1,0 +1,7 @@
+[package]
+name = "cam-px-calc"
+version = "0.1.0"
+authors = ["liam"]
+edition = "2018"
+
+[dependencies]
